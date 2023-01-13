@@ -11,6 +11,8 @@ public class SpringjenkinApplication {
 
 
 		System.out.println("Hello");
+
+		System.out.println("Hlo Spring");
 	}
 
 }
